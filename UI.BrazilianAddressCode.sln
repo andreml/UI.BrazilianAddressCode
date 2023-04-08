@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.BrazilianAddressCode", "UI.BrazilianAddressCode\UI.BrazilianAddressCode.csproj", "{02C937AD-3EEB-4A82-A61D-B5F75215064D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C937AD-3EEB-4A82-A61D-B5F75215064D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C937AD-3EEB-4A82-A61D-B5F75215064D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C937AD-3EEB-4A82-A61D-B5F75215064D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C937AD-3EEB-4A82-A61D-B5F75215064D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B552867-FBF7-4FC5-AC88-7BE6B7D40F7E}
+	EndGlobalSection
+EndGlobal
